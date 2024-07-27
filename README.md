@@ -15,7 +15,7 @@ pip install opencv-python tqdm tensorboardX scikit-learn
 
 ## Dataset
 
-[CDD](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)、[LEVIR-CD](https://chenhao.in/LEVIR/)、[WHU]([study.rsgis.whu.edu.cn](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html))
+[CDD](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)、[LEVIR-CD](https://chenhao.in/LEVIR/)、[WHU](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html)
 
 ## Model
 
