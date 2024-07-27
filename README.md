@@ -47,7 +47,7 @@ path = './weights/snunet-32_TA.pt'  # Model path
 python visualization.py 
 
 # Model explanation
-snunet-32_TA                                  # Improved model weights
+snunet-32_TA                                        # Improved model weights
 snunet-32_ori、snunet-40_ori、snunet-48_ori		# SNUNet model training weights
 ```
 
