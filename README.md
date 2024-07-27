@@ -43,7 +43,7 @@ python train.py
 
 ```python
 # Visualization
-path = './weights/snunet-32_TA.pt'  # Model path
+path = './weights/snunet-32_TA.pt'  # weight path
 python visualization.py 
 
 # Model explanation
